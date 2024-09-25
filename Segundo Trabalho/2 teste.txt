@@ -1,0 +1,9 @@
+inteiro x
+inteiro y
+ok () (define ok
+return 1)
+x = <<
+if (==(x,ok()))
+then >> 1
+else >> 0
+end

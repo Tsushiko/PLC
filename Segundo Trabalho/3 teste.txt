@@ -1,0 +1,9 @@
+inteiro x
+inteiro y
+x = <<
+y = 8008135
+print ( indique a palavra passe )
+while (~=(x,y)) do
+x = <<
+end
+print( palavra passe correta inserida )

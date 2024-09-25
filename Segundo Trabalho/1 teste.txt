@@ -1,0 +1,5 @@
+inteiro a = 1
+inteiro b = 3
+inteiro c
+c = /(+(a,b),2)
+>> c

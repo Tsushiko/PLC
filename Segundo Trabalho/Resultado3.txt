@@ -1,0 +1,24 @@
+PUSHI 0
+PUSHI 0
+START
+READ
+ATOI
+STOREG 0
+PUSHI 8008135
+STOREG 1
+PUSHS "indique a palavra passe"
+WRITES
+l0c: NOP
+PUSHG 0
+PUSHG 1
+EQUAL
+NOT
+JZ l0f
+READ
+ATOI
+STOREG 0
+JUMP l0c
+l0f: NOP
+PUSHS "palavra passe correta inserida"
+WRITES
+STOP

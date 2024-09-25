@@ -1,0 +1,53 @@
+0- O poeta é um fingidor
+1- Finge tão completamente
+0- Que chega a fingir que é dor
+1- A dor que deveras sente.
+
+2- E os que leem o que escreve,
+3- Na dor lida sentem bem,
+2- Não as duas que ele teve,
+4- Mas só a que eles não têm.
+
+5- E assim nas calhas de roda
+6- Gira, a entreter a razão,
+5- Esse comboio de corda
+6- Que se chama coração.
+
+
+Numero de Palavras: 64
+
+Palavra que ocorreu mais: que com 6 ocorr�ncias.
+
+Tipo do texto: Poema
+
+Numero de Estrofes: 3
+
+1� estrofe: Quarteto
+
+2� estrofe: Quarteto
+
+3� estrofe: Quarteto
+
+Tipos de Rimas: 
+
+Rimas Emparelhadas: 0
+
+
+Rimas Encadeadas: 5
+fingidor (linha 1) - dor (linha 3)
+completamente (linha 2) - sente (linha 4)
+escreve (linha 6) - teve (linha 8)
+roda (linha 11) - corda (linha 13)
+razão (linha 12) - coração (linha 14)
+
+Rimas Alternadas: 2
+fingidor (linha 1) - dor (linha 3) / completamente (linha 2) - sente (linha 4)
+roda (linha 11) - corda (linha 13) / razão (linha 12) - coração (linha 14)
+
+Rimas Interpoladas: 0
+
+
+Sem Rima: 2
+bem (linha 7)
+têm (linha 9)
+

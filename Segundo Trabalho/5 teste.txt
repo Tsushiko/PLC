@@ -1,0 +1,17 @@
+inteiro a
+inteiro b
+inteiro c
+fact12() ( define fact12
+a = 12
+b = 1
+while (>(a,1)) do
+b=*(b,a)
+a=-(a,1)
+end
+return b )
+fact13() ( define fact13
+a = fact12()
+a = *(a,13)
+return a )
+a = fact13()
+>>a

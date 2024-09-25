@@ -1,0 +1,10 @@
+inteiro n
+inteiro x
+zero() ( define zero
+x = 0
+return x )
+n = <<
+while (>=(n,zero())) do
+>> n
+n = -(n,1)
+end

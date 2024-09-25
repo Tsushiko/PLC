@@ -1,0 +1,2 @@
+Temos um grande texto, muito grande.Gostava que fosse pequeno mas infelizmente é grande.
+Não entendo como é que utf-8 não imprime direito que tristeza.
